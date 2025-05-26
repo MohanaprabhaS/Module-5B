@@ -34,3 +34,5 @@ print(np.sort(a,axis=0))
 
 
 ## Result
+
+Thus the python program for sorting each column in numpy has been implemented and executed successfully.
