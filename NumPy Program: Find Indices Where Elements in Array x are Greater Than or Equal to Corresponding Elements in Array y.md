@@ -14,11 +14,6 @@ To write a Python program using **NumPy** that finds the indices where elements 
 
 ## 🧾 Program
 ```
-Developed by:Mohanaprabha S
-Register no:212224040197
-```
-
-```
 import numpy as np
 x=eval(input())
 y=eval(input())
