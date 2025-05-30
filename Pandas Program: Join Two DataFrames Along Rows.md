@@ -15,11 +15,8 @@ To write a Python program using Pandas to **join two DataFrames along rows** (ro
 5. **Display Result**: Print the new combined DataFrame.
 
 ---
-
 ## Program
 ```
-
-
 import pandas as pd 
  
 student_data1 = pd.DataFrame({ 
@@ -45,8 +42,6 @@ print(result_data)
 ![image](https://github.com/user-attachments/assets/ce9f0654-79a3-4d71-a963-d0f9a60db2f9)
 
 ![image](https://github.com/user-attachments/assets/c055ef46-748c-41fd-a5d4-262469147d71)
-
-
 
 ## Result
 
