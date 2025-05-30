@@ -18,6 +18,8 @@ To write a Python program using Pandas to **join two DataFrames along rows** (ro
 
 ## Program
 ```
+
+
 import pandas as pd 
  
 student_data1 = pd.DataFrame({ 
