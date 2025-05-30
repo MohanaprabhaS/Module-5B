@@ -16,11 +16,7 @@ To write a Python program using Pandas to **join two DataFrames along rows** (ro
 
 ---
 
-## 💻 Program
-```
-Developed by:Mohanaprabha S
-Register no:212224040197
-```
+## Program
 ```
 import pandas as pd 
  
